@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SuperFreak504
-- 👀 I’m interested in coding websites and gaming.
-- 🌱 I’m currently learning Java, C#, Python, Django and HTML/CSS/JS!
+- 👀 I’m interested in coding games and websites.
+- 🌱 I’m currently learning Java, Godot, Python, Django and HTML/CSS/JS!
 - 📫 How to reach me: I'm on [Twitter](https://www.twitter.com/SuperFreak5O4), and on [Discord](https://discordapp.com/users/541970584121376768)!
