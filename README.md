@@ -14,34 +14,36 @@
 
 ###
 
-<p align="left">📫 Reach me on [Discord](https://discordapp.com/users/541970584121376768)!</p>
+<p align="left">📫 Reach me on <a href="https://discordapp.com/users/541970584121376768" target="_blank" rel="noreferrer">Discord</a>!</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo"  />
 </div>
 
 ###
