@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="220" src="https://github.com/SuperFreak504/SuperFreak504/blob/main/SuperFreak_Icon512x512.png?raw=true"  />
+<img align="right" height="240" src="https://github.com/SuperFreak504/SuperFreak504/blob/main/SuperFreak_Icon512x512.png?raw=true"  />
 
 ###
 
@@ -25,9 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React & React Native logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="12" />
