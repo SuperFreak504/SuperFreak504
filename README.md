@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React & React Native logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo"  />
 </div>
 
 ###
