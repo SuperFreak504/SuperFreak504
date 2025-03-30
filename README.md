@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS logo"  />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/4b9209a3d501136dff19785ccc99ae1f33256d3a/assets/css.svg" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo"  />
   <img width="12" />
