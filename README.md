@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="Android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" height="40" alt="Canva logo"  />
 </div>
 
 ###
